@@ -1,0 +1,21 @@
+{
+  "name": "tiy-assignment-11-b",
+  "version": "0.0.0",
+  "authors": [
+    "Brian Leonard <brian@theleoreport.com>"
+  ],
+  "description": "Turn a tree of json data into an HTML tree",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
